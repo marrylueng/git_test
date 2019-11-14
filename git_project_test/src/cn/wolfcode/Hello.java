@@ -12,6 +12,7 @@ public class Hello {
         System.out.println("hello 3");
         System.out.println("hello 3");
         System.out.println("hello 3");
+        System.out.println("function");
         put();
     }
     public static void put() {
